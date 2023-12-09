@@ -48,6 +48,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-mehedi-hasan-a937012a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-mehedi-hasan-a937012a0/" height="30" width="40" /></a>
 <a href="https://fb.com/http://tushar.mehedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="http://tushar.mehedi/" height="30" width="40" /></a>
+  <a href="https://fb.com/http://tushar.mehedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="http://tushar.mehedi/" height="30" width="40" /></a>
 </p>
 
 
