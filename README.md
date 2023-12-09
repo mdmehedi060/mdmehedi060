@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/gZwSTyW)](https://rishavchanda.io)
+[![MasterHead](https://ibb.co/gZwSTyW)](https://ibb.co/gZwSTyW)
 <h1 align="center">Hi 👋, I'm Md Mehedi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 </br>
