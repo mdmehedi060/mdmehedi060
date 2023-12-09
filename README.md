@@ -1,5 +1,5 @@
 <a href="https://i.ibb.co/xqG1jhg/2.png">
-
+<img src="https://i.ibb.co/xqG1jhg/2.png" />
 </a>
 ## :eyes: Current overview
 
