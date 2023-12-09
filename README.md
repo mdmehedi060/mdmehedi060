@@ -2,9 +2,6 @@
 <img src="https://i.ibb.co/xqG1jhg/2.png" />
 </a>
 
-## :chart_with_upwards_trend: Current Stats
-
-<br />
 ## :eyes: Current overview
 
 <div align="left">
@@ -19,6 +16,13 @@
 
 
 <br />
+
+
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+
 
 
 <p align="center">
