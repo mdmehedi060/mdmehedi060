@@ -34,7 +34,12 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmehedi060&show_icons=true&locale=en&layout=compact" alt="mdmehedi060" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmehedi060&show_icons=true&locale=en" alt="mdmehedi060" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmehedi060&" alt="mdmehedi060" /></p>
+
 
 ## :mailbox: Reach me out
 
