@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/gZwSTyW)](https://ibb.co/gZwSTyW)
+[![MasterHead](https://i.ibb.co/xqG1jhg/2.png)](https://i.ibb.co/xqG1jhg/2.png)
 <h1 align="center">Hi 👋, I'm Md Mehedi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 </br>
